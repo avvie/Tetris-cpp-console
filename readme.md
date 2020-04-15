@@ -5,6 +5,7 @@ Console text based tetris
 # How to play
 
 Z - will rotate the tetronimos
+
 Arrow keys - to move the tetronimos around
 
 Also dont resize the console, this project was creating a text based tetris, not a friendly UI/UX
